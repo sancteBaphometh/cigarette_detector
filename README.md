@@ -2,7 +2,7 @@
 
 Содержит два скрипта - image_detect.py и video_detect.py. Первый для предсказания и отрисовки bounding boxes на фото, второй - для видео.
 
-Пример запуска скрипта через командную строку: **_python image_detect.py "image.jpg" "processed_image.jpg"_**.
+Пример запуска скрипта через командную строку: **_python image_detect.py "in_image.jpg" "out_image.jpg"_**.
 
 Отработав, скрипт создаёт медиафайл с отрисованными bounding boxes по пути "content/processed/".
 
